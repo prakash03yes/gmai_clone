@@ -10,7 +10,7 @@ import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 
 
 import { IconButton } from '@material-ui/core';
-import logoImg from '../Assets/images/gmail_logo.jpg';
+import logoImg from '../../Assets/images/gmail_logo.jpg';
 
 export default function Header() {
 	return (
