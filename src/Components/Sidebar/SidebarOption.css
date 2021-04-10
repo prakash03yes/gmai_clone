@@ -17,11 +17,13 @@
 	font-size: 14px;
 	flex: 1;
 	font-weight: 400;
+	min-width: 100px;
 }
 
 .sidebarOption > p {
 	display: none;
 	font-weight: 300;
+	margin-left: 10px;
 }
 
 .sidebarOption:hover > p,
